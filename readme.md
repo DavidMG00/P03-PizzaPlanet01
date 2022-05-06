@@ -1,6 +1,6 @@
 # P03-PizzaPlanet
 
-[pages: https://github.com/DavidMG00/P03-PizzaPlanet01.git ]
+[pages: https://davidmg00.github.io/P03-PizzaPlanet01/ ]
 
 Projecte app pizzeria
 
